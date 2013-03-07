@@ -27,6 +27,15 @@ and resolution. In particular, it can be used to enhance
 depth maps from range sensors such as Time-of-Flight 
 cameras.
 
+If you use this framework in your research, please cite:
+
+Wetzl, J., Taubmann, O., Haase, S., Köhler, T., Kraus, M., 
+and Hornegger, J. (2013). GPU-Accelerated Time-of-Flight 
+Super-Resolution for Image-Guided Surgery. In Meinzer, 
+H.-P., Deserno, T. M., Handels, H., and Tolxdorff, T., 
+editors, Bildverarbeitung für die Medizin 2013, Informatik
+aktuell, pages 21–26. Springer Berlin Heidelberg.
+
 ===========================================================
   DEPENDENCIES
 ===========================================================
