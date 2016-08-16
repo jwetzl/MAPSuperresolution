@@ -1,3 +1,9 @@
+NOTE: This library was only tested with CUDA 4.x and
+5.x and may not work with more recent versions. We
+do not currently have the time to update it for more
+recent CUDA versions, but would gladly accept pull
+requests addressing this issue.
+
 ===========================================================
         ___ _   _ ___   _     __  __   _   ___     
        / __| | | |   \ /_\   |  \/  | /_\ | _ \    
